@@ -1,5 +1,7 @@
 # Assignment_1
 
+harrisonbb.stu.cofc.edu/Portfolio/
+
 ## Due 14 Sep 2017, 11:59pm
 
 * **Fork** this repository to your GitHub and **Clone** to your computer.
