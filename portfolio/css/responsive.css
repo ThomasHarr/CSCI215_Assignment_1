@@ -1,0 +1,88 @@
+/*Responsive Design*/
+
+/* mobile */
+@media (min-width: 400px) {
+    .navbar{
+        overflow: hidden;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 75px;
+    }
+    nav ul{
+        text-align: center;
+    }
+    nav ul li{
+        display: inline;
+        font-size: .75em;
+    }
+    #container{
+        width: 300px;
+    }
+    img{
+        display: none;
+    }
+    #head{
+        width: 70%;
+        float: none;
+        margin: auto;
+        margin-top: 85px;
+        font-size: 1em;
+        padding: 10px;
+    }
+    .sec{
+        font-size: 1em;
+    }
+    section{
+        height: 375px
+    }
+}
+
+/* tablet */
+@media (min-width: 650px) {
+    .navbar{
+        overflow: hidden;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 75px;
+    }
+    nav ul{
+        text-align: center;
+    }
+    nav ul li{
+        display: inline;
+        font-size: .75em;
+    }
+    #container{
+        width: 600px;
+    }
+    img{
+        display: none;
+    }
+    #head{
+        width: 70%;
+        float: none;
+        margin: auto;
+        margin-top: 85px;
+        padding: 10px;
+    }
+    .sec{
+        font-size: 1.25em;
+    }
+    section{
+        height: 375px
+    }
+}
+
+/* desktop */
+@media (min-width: 1000px) {
+
+}
+
+/* Desktop HD */
+@media (min-width: 1200px) {
+
+}
