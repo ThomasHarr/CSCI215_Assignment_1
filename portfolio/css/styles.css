@@ -46,13 +46,6 @@ nav ul li a:hover{
     height: 800px;
 }
 
-#sidebar{
-    float: left;
-    background-color: rgba(255,255,255,.75);
-    height: 825px;
-    width: 17%;
-}
-
 .h1{
     color: white;
     padding-top: 30px;
@@ -126,6 +119,13 @@ footer a:hover{
 
 
 /* The CSCI215 page*/
+#sidebar{
+    float: left;
+    background-color: rgba(255,255,255,.75);
+    height: 825px;
+    width: 17%;
+}
+
 #sidebar h3{
     padding-left: 10px;
 }
