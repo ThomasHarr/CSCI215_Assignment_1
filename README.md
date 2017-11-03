@@ -1,6 +1,6 @@
 # Assignment_1
 
-harrisonbb.stu.cofc.edu/Portfolio/
+harrisonbb.students.cofc.edu/Portfolio/
 
 ## Due 14 Sep 2017, 11:59pm
 
